@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotRover", "RobotRover\RobotRover.csproj", "{182360BD-7A60-4723-8EC7-98D5C893661A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotRover.Tests", "RobotRover.Tests\RobotRover.Tests.csproj", "{E74D863D-4EE3-4684-8EFD-88B85485F061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182360BD-7A60-4723-8EC7-98D5C893661A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182360BD-7A60-4723-8EC7-98D5C893661A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182360BD-7A60-4723-8EC7-98D5C893661A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182360BD-7A60-4723-8EC7-98D5C893661A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74D863D-4EE3-4684-8EFD-88B85485F061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74D863D-4EE3-4684-8EFD-88B85485F061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74D863D-4EE3-4684-8EFD-88B85485F061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74D863D-4EE3-4684-8EFD-88B85485F061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FF269E-DF9F-44FC-B41C-CF3D59AA5564}
+	EndGlobalSection
+EndGlobal
